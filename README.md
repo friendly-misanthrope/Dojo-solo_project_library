@@ -19,4 +19,10 @@ Before getting started, you will need to be running an instance of MongoDB on yo
         - In the server terminal, run 'npm i' to install dependencies.
         - Run either 'nodemon server.js' or 'node server.js'.
         - You should see 2 messages in the server terminal's console: "Server is listening on port 8000", and "Database connection established".
+    
+## You are now all set to create, read, update, and delete books and their related notes and cover photos!
 
+Constructive criticism and ideas are always welcome. This application is a WIP and new features will be added in the coming weeks/months. User registration/login is coming soon.
+
+Thanks for checking out my project!
+~Nick
