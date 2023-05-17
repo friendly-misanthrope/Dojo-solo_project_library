@@ -18,5 +18,5 @@ Before getting started, you will need to be running an instance of MongoDB on yo
       ### server:
         - In the server terminal, run 'npm i' to install dependencies.
         - Run either 'nodemon server.js' or 'node server.js'.
-        - You should see 2 messages in the server terminal's console: "Server is listening on port 800", and "Database connection established".
+        - You should see 2 messages in the server terminal's console: "Server is listening on port 8000", and "Database connection established".
 
