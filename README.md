@@ -22,7 +22,7 @@ Before getting started, you will need to be running an instance of MongoDB on yo
     
 ## You are now all set to create, read, update, and delete books and their related notes and cover photos!
 
-Constructive criticism and ideas are always welcome. This application is a WIP and new features will be added in the coming weeks/months. User registration/login is coming soon.
+Constructive criticism and ideas are always welcome. This application is a WIP; code will be cleaned up, some refactoring will be done, and new features will be added in the coming weeks/months. User registration/login is coming soon.
 
 Thanks for checking out my project!
 ~Nick
