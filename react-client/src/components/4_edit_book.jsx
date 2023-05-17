@@ -3,7 +3,7 @@ import axios from 'axios'
 import { useNavigate, useParams, Link } from 'react-router-dom'
 
 
-const EditBook = (props) => {
+const EditBook = () => {
 
   const navigate = useNavigate()
   const { id } = useParams()

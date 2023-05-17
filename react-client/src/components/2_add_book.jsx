@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { useNavigate, Link } from 'react-router-dom';
 import axios from 'axios'
 
-function AddBook() {
+const AddBook = () => {
   // Create book state object, initialize values to empty strings
   const [book, setBook] = useState({
     title: '',
